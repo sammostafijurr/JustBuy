@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # just_buy
 
 e commerce app.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# JustBuy
+>>>>>>> 9cf63b571d3db05cfcb2472ccc5be64e788ebceb
